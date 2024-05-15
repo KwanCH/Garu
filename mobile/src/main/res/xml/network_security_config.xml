@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">127.0.0.1</domain>
+        <domain includeSubdomains="true">10.0.2.2</domain>
+        <domain includeSubdomains="true">172.26.0.236</domain>
+        <domain includeSubdomains="true">192.168.1.4</domain>
+        <domain includeSubdomains="true">192.168.50.54</domain>
+        <domain includeSubdomains="true">192.168.10.134</domain>
+        <domain includeSubdomains="true">193.157.236.73</domain>
+        <domain includeSubdomains="true">192.168.50.53</domain>
+        <domain includeSubdomains="true">193.157.205.45</domain>
+        <domain includeSubdomains="true">192.168.50.91</domain>
+        <domain includeSubdomains="true">193.157.180.21</domain>
+        <domain includeSubdomains="true">192.168.39.110</domain>
+        <domain includeSubdomains="true">193.157.238.11</domain>
+        <domain includeSubdomains="true">193.157.236.175</domain>
+        <domain includeSubdomains="true">193.157.192.1</domain>
+        <domain includeSubdomains="true">172.20.10.2</domain>
+        <domain includeSubdomains="true">172.26.0.244</domain>
+        <domain includeSubdomains="true">garu.uiocloud.no</domain>
+
+    </domain-config>
+</network-security-config>

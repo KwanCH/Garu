@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ak24project" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+    <style name="Theme.Ak24project" parent="Base.Theme.Ak24project" />
+</resources>
